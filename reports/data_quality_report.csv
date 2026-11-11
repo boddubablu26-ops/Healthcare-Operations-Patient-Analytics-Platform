@@ -1,0 +1,11 @@
+check_id,category,name,severity,failed_records,status,details
+1,Uniqueness,Duplicate Patient IDs,CRITICAL,0,PASSED,Repeated patient_id records detected in patients table
+2,Uniqueness,Duplicate Encounter IDs,CRITICAL,0,PASSED,Repeated encounter_id records detected in encounters table
+3,Completeness,Null Encounter PK or Start Time,CRITICAL,0,PASSED,Encounters missing primary key or start timestamp
+4,Temporal Validity,Encounter End Prior to Start,CRITICAL,0,PASSED,Encounters where stop_time < start_time
+5,Temporal Validity,Condition End Prior to Start,HIGH,0,PASSED,Conditions where end_date < start_date
+6,Financial Validity,Negative Encounter Costs,HIGH,0,PASSED,Encounters with negative financial values
+7,Financial Validity,Payer Coverage Exceeds Claim Cost,MEDIUM,0,PASSED,Payer coverage exceeding total claim amount
+8,Referential Integrity,Orphan Encounters (Invalid Patient),CRITICAL,0,PASSED,Encounters pointing to missing patient_id
+9,Referential Integrity,Orphan Conditions (Invalid Encounter),CRITICAL,0,PASSED,Conditions pointing to missing encounter_id
+10,Referential Integrity,Orphan Medications (Invalid Patient),CRITICAL,0,PASSED,Medications pointing to missing patient_id

@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+docss/
+__pycache__/
+*.pyc
+
+# Environment Secrets
+.env
+*.pem
+
+# Data files (Synthea raw files can be large)
+# Keep sample datasets, ignore giant dumps if generated locally
+data/raw/*.parquet
+*.log
+.ipynb_checkpoints/
+
+# Duckdb databases
+*.duckdb
+*.duckdb.wal
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+organization_id,name,address,city,state,zip,phone,revenue,utilization
+c5d226c0-5440-468c-ae86-b46255d0f6b3,Mass General Brigham,55 Fruit St,Boston,MA,02114,617-726-2000,250000000.00,950
+fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,Beth Israel Deaconess Medical Center,330 Brookline Ave,Boston,MA,02215,617-667-7000,180000000.00,700
+34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,Boston Medical Center,1 Boston Med Ctr Pl,Boston,MA,02118,617-638-8000,140000000.00,550
+d99ef33f-b250-4310-aef2-6c411edf05d4,Cambridge Health Alliance,1493 Cambridge St,Cambridge,MA,02139,617-665-1000,95000000.00,320
+7500b2e4-3673-44ae-b737-6e6cbf921811,UMass Memorial Medical Center,55 Lake Ave N,Worcester,MA,01655,508-334-1000,160000000.00,620
+ba8d0ae7-f39f-49af-bc99-b76201c1cb36,Baystate Medical Center,759 Chestnut St,Springfield,MA,01199,413-794-0000,120000000.00,480
+ce3e3240-aaf6-404d-9c54-85221a069f2c,South Shore Hospital,55 Fogg Rd,South Weymouth,MA,02190,781-624-8000,85000000.00,350
+ac153f9b-783e-47f9-b4e6-920b3b69202b,Lahey Hospital & Medical Center,41 Mall Rd,Burlington,MA,01805,781-744-5100,110000000.00,420

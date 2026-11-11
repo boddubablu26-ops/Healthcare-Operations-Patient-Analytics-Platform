@@ -1,0 +1,7 @@
+payer_id,name,ownership,address,city,state,zip,phone,amount_covered,amount_uncovered,revenue
+7467924a-4c11-496d-8b91-971cebda66ba,Medicare,Government,7500 Security Blvd,Baltimore,MD,21244,800-633-4227,90000000.00,5000000.00,95000000.00
+1af674a4-9762-443e-ae21-f565bad9ef5b,Medicaid,Government,600 Washington St,Boston,MA,02111,800-841-2900,65000000.00,3000000.00,68000000.00
+929485a6-5b0f-497b-a986-5910772ebf87,Blue Cross Blue Shield of MA,Private,101 Huntington Ave,Boston,MA,02199,800-262-2583,110000000.00,8000000.00,118000000.00
+c1d95e03-2ea3-47a8-97b1-510a90d9c9fe,Harvard Pilgrim Health Care,Private,93 Worcester St,Wellesley,MA,02481,888-333-4742,75000000.00,6000000.00,81000000.00
+c7fcd812-621e-45a7-9213-12cca02bb090,Tufts Health Plan,Private,705 Mt Auburn St,Watertown,MA,02472,800-462-0224,55000000.00,4500000.00,59500000.00
+a21b726b-2775-496c-be52-a53433b45f84,UnitedHealthcare,Private,9900 Bren Rd E,Minnetonka,MN,55343,877-842-3210,85000000.00,7000000.00,92000000.00

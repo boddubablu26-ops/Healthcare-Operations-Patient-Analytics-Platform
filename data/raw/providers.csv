@@ -1,0 +1,121 @@
+provider_id,organization_id,name,gender,specialty,address,city,state,zip
+8de664a0-8803-4c31-9092-b0a0cac33075,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. James Lopez, MD",M,Cardiology,55 Lake Ave N,Worcester,MA,01655
+19a86927-a1b4-46db-b68b-b4aa219f6942,fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,"Dr. Robert Lopez, MD",M,Neurology,330 Brookline Ave,Boston,MA,02215
+26426b7e-9d9e-4ce7-84aa-847c82064793,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Charles Miller, MD",M,Internal Medicine,55 Fruit St,Boston,MA,02114
+28a9534e-609b-4668-b8f1-00ea0e640a89,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Michael Brown, MD",M,Neurology,55 Fruit St,Boston,MA,02114
+39bde33a-5f1e-41f3-b2c4-4fbc7572bce2,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Thomas Miller, MD",M,General Surgery,1493 Cambridge St,Cambridge,MA,02139
+a206bd69-238a-401d-81c8-8b6d5b58fc81,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. Mary Gonzalez, MD",F,Orthopedic Surgery,1 Boston Med Ctr Pl,Boston,MA,02118
+d0e0f489-5a44-40ea-aac7-4af056e58f57,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Elizabeth Williams, MD",F,Obstetrics & Gynecology,1493 Cambridge St,Cambridge,MA,02139
+b049cfd5-218f-41cc-8c89-857aa6c15823,fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,"Dr. John Miller, MD",M,Obstetrics & Gynecology,330 Brookline Ave,Boston,MA,02215
+17a69477-6ef9-408e-b401-c86bbe93d649,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Karen Jones, MD",F,General Surgery,55 Fruit St,Boston,MA,02114
+5e236c3b-344e-4094-ae9d-e80a327cba33,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Richard Johnson, MD",M,Psychiatry,55 Lake Ave N,Worcester,MA,01655
+2df9ae1f-a8fd-42aa-92b9-09c7338e2697,fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,"Dr. Karen Brown, MD",F,Internal Medicine,330 Brookline Ave,Boston,MA,02215
+c787195f-f427-47aa-8429-1c67bc79b5db,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. William Johnson, MD",M,Family Medicine,1493 Cambridge St,Cambridge,MA,02139
+988c6683-d39f-4321-b523-3db470f7704f,ba8d0ae7-f39f-49af-bc99-b76201c1cb36,"Dr. Elizabeth Davis, MD",F,Emergency Medicine,759 Chestnut St,Springfield,MA,01199
+ec3fbc00-85f4-46c0-808d-9ddda4d08a86,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Barbara Brown, MD",F,Family Medicine,55 Lake Ave N,Worcester,MA,01655
+7354b43a-2f58-4899-84d8-eff79d526479,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Thomas Lopez, MD",M,Emergency Medicine,1493 Cambridge St,Cambridge,MA,02139
+df8c4a49-9fac-4edd-ab18-2db4baf5c8c2,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Susan Jones, MD",F,Obstetrics & Gynecology,1493 Cambridge St,Cambridge,MA,02139
+648b7e07-8b8a-4697-85e7-134180924f8d,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Michael Wilson, MD",M,Obstetrics & Gynecology,55 Fruit St,Boston,MA,02114
+11b6821c-1d56-4a93-89e1-3f8c4d6b2035,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Elizabeth Johnson, MD",F,Psychiatry,1493 Cambridge St,Cambridge,MA,02139
+b80d2e17-0299-4d8a-8bdb-02743ac8f1c4,ac153f9b-783e-47f9-b4e6-920b3b69202b,"Dr. Linda Hernandez, MD",F,Orthopedic Surgery,41 Mall Rd,Burlington,MA,01805
+91f0ffc9-36b1-4711-bf59-d102eecc193f,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. Jennifer Jones, MD",F,Cardiology,1 Boston Med Ctr Pl,Boston,MA,02118
+ac22135e-d690-421c-bdf9-f4f579345749,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. Karen Miller, MD",F,Obstetrics & Gynecology,55 Fogg Rd,South Weymouth,MA,02190
+00d0c55b-7ee5-415f-885b-defb61018d08,ac153f9b-783e-47f9-b4e6-920b3b69202b,"Dr. Robert Rodriguez, MD",M,Family Medicine,41 Mall Rd,Burlington,MA,01805
+20e24964-89c9-4663-a8d5-6022e5d8ca1b,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. John Williams, MD",M,Orthopedic Surgery,1 Boston Med Ctr Pl,Boston,MA,02118
+100b64b2-3d07-4814-bbc3-6e188bb8545c,ac153f9b-783e-47f9-b4e6-920b3b69202b,"Dr. Richard Miller, MD",M,Neurology,41 Mall Rd,Burlington,MA,01805
+c11d3dc0-345c-49b8-b148-0750c87df794,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Sarah Wilson, MD",F,Family Medicine,55 Fruit St,Boston,MA,02114
+e4dd701b-2903-48cc-853a-ee9af26424c1,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Barbara Johnson, MD",F,Orthopedic Surgery,55 Lake Ave N,Worcester,MA,01655
+9f590f22-88ff-4e05-811c-1047a465f1eb,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Joseph Smith, MD",M,Neurology,55 Lake Ave N,Worcester,MA,01655
+9175875a-98af-45b5-82fd-6f942e9cada4,fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,"Dr. Thomas Anderson, MD",M,Pediatrics,330 Brookline Ave,Boston,MA,02215
+0656bf20-334c-4efe-b981-8578e2adf1ea,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. Robert Garcia, MD",M,Neurology,1 Boston Med Ctr Pl,Boston,MA,02118
+29dd2bf8-4988-451b-a48e-00bdc1494388,ac153f9b-783e-47f9-b4e6-920b3b69202b,"Dr. Charles Garcia, MD",M,Internal Medicine,41 Mall Rd,Burlington,MA,01805
+c3ce8bb9-9f0b-4410-995b-2e0043fa8882,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. David Anderson, MD",M,Cardiology,55 Lake Ave N,Worcester,MA,01655
+251f2b7e-f757-40ab-9fff-840dc5280cfd,fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,"Dr. Michael Anderson, MD",M,Family Medicine,330 Brookline Ave,Boston,MA,02215
+6b97519c-32ef-41a7-8779-189a68176876,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. Patricia Gonzalez, MD",F,Emergency Medicine,1 Boston Med Ctr Pl,Boston,MA,02118
+a5073a4a-80f2-4069-8ce4-91fb403399db,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Sarah Williams, MD",F,Neurology,55 Lake Ave N,Worcester,MA,01655
+c05e839c-c0d3-4cc9-bf3a-c8259bd73847,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Linda Anderson, MD",F,Pediatrics,1493 Cambridge St,Cambridge,MA,02139
+725e2ffb-370b-4ecb-9b24-3999e560275b,ac153f9b-783e-47f9-b4e6-920b3b69202b,"Dr. Barbara Davis, MD",F,Family Medicine,41 Mall Rd,Burlington,MA,01805
+6d3486a7-2650-4000-a056-e28a11c749cd,ba8d0ae7-f39f-49af-bc99-b76201c1cb36,"Dr. Michael Johnson, MD",M,Internal Medicine,759 Chestnut St,Springfield,MA,01199
+554e7874-4c48-4d0e-95cb-d1f5f0ea349b,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Charles Brown, MD",M,Family Medicine,55 Fruit St,Boston,MA,02114
+5a92e6df-bddf-428c-a344-595963658298,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Michael Johnson, MD",M,Obstetrics & Gynecology,55 Fruit St,Boston,MA,02114
+bde02607-50df-4742-a649-224a4cbdfba4,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Thomas Brown, MD",M,General Surgery,55 Lake Ave N,Worcester,MA,01655
+7d2353bd-245a-40b7-b06c-c0e27274fd7e,ac153f9b-783e-47f9-b4e6-920b3b69202b,"Dr. Thomas Williams, MD",M,Cardiology,41 Mall Rd,Burlington,MA,01805
+11973e15-e41a-443a-996d-7713ca27fab4,fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,"Dr. Susan Brown, MD",F,Family Medicine,330 Brookline Ave,Boston,MA,02215
+d7262c9c-d36b-4334-8100-976b90980880,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. Barbara Miller, MD",F,General Surgery,55 Fogg Rd,South Weymouth,MA,02190
+2cc1359f-5378-4ab0-ada1-cf7401b1cbbc,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. John Smith, MD",M,Obstetrics & Gynecology,55 Fogg Rd,South Weymouth,MA,02190
+8660499b-5e21-4bbb-80d2-d7a0f62f6ffe,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Michael Brown, MD",M,Neurology,1493 Cambridge St,Cambridge,MA,02139
+d121b921-a297-49ea-88c7-5fed53948ff1,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. Jennifer Miller, MD",F,Pediatrics,1 Boston Med Ctr Pl,Boston,MA,02118
+dbcdd269-6c21-4e93-bef4-c1a2af96e6df,fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,"Dr. Linda Wilson, MD",F,General Surgery,330 Brookline Ave,Boston,MA,02215
+417fc0b5-f1cd-40f6-9ac3-428207c195eb,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. James Hernandez, MD",M,Family Medicine,55 Fruit St,Boston,MA,02114
+fd0b5edb-4477-432b-a2f8-4e4ab127f683,ac153f9b-783e-47f9-b4e6-920b3b69202b,"Dr. Robert Miller, MD",M,General Surgery,41 Mall Rd,Burlington,MA,01805
+f4fd0de2-3451-42fc-bc63-376901e7791b,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Richard Anderson, MD",M,Emergency Medicine,55 Fruit St,Boston,MA,02114
+2f1eb7c7-cba3-4e1d-a584-3a25069b2f4c,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Mary Miller, MD",F,General Surgery,55 Lake Ave N,Worcester,MA,01655
+559ba679-bbcd-48a2-bab4-1a67ef7cb1fe,ac153f9b-783e-47f9-b4e6-920b3b69202b,"Dr. Susan Lopez, MD",F,Emergency Medicine,41 Mall Rd,Burlington,MA,01805
+eb65ae6f-96ba-4b4e-8ea8-2c69bd7a709d,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. William Brown, MD",M,Psychiatry,55 Fruit St,Boston,MA,02114
+c8c1de7c-f3a4-4cd0-bf3c-b8be5dbdc1bb,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. David Smith, MD",M,Psychiatry,55 Fruit St,Boston,MA,02114
+bdbdfebf-d197-45cf-a21d-1243e6b512c1,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. Sarah Anderson, MD",F,Internal Medicine,1 Boston Med Ctr Pl,Boston,MA,02118
+88c39612-aacd-4d51-b0d2-64f930200ec9,fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,"Dr. Robert Johnson, MD",M,Cardiology,330 Brookline Ave,Boston,MA,02215
+112e2827-7432-40ad-8dd5-4bc1fbc9c833,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Patricia Anderson, MD",F,Psychiatry,1493 Cambridge St,Cambridge,MA,02139
+364494f4-f5fd-42cf-b565-f23092742721,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. Charles Johnson, MD",M,Psychiatry,55 Fogg Rd,South Weymouth,MA,02190
+ad9214e8-e940-4570-b0ec-bd766fa8b8aa,ba8d0ae7-f39f-49af-bc99-b76201c1cb36,"Dr. Elizabeth Brown, MD",F,Cardiology,759 Chestnut St,Springfield,MA,01199
+cc9890d0-654b-4c49-a1da-1683c4b51128,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Susan Williams, MD",F,General Surgery,55 Lake Ave N,Worcester,MA,01655
+0d386f91-f68e-484a-9cab-8cb7f71b960a,ac153f9b-783e-47f9-b4e6-920b3b69202b,"Dr. Patricia Smith, MD",F,Psychiatry,41 Mall Rd,Burlington,MA,01805
+3b8eca1a-bd86-4f98-b1d0-8963d8ab3c0e,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. John Rodriguez, MD",M,Neurology,1493 Cambridge St,Cambridge,MA,02139
+87231f5f-2d55-4ab6-907d-d74f9a7f2ec3,ba8d0ae7-f39f-49af-bc99-b76201c1cb36,"Dr. Jennifer Anderson, MD",F,Family Medicine,759 Chestnut St,Springfield,MA,01199
+0fde78f2-b55b-413c-9604-3369a221b944,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. David Jones, MD",M,General Surgery,1 Boston Med Ctr Pl,Boston,MA,02118
+1f79f801-95b7-449c-8b50-945f978d7f51,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Karen Gonzalez, MD",F,Neurology,55 Fruit St,Boston,MA,02114
+398b0706-b6a0-4dda-a3db-c86e44315e83,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. Patricia Anderson, MD",F,Pediatrics,1 Boston Med Ctr Pl,Boston,MA,02118
+bc29f907-26bc-49ad-8872-e2d37d044371,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. John Lopez, MD",M,Pediatrics,1 Boston Med Ctr Pl,Boston,MA,02118
+abbaff7b-e1b5-458c-889e-638da90f5cbe,ba8d0ae7-f39f-49af-bc99-b76201c1cb36,"Dr. Karen Brown, MD",F,Cardiology,759 Chestnut St,Springfield,MA,01199
+4e27844d-f0f0-4fc2-9af0-8b48d3434e09,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Sarah Davis, MD",F,Internal Medicine,55 Lake Ave N,Worcester,MA,01655
+2b370c78-4243-4a53-8a2b-028f86053537,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Richard Wilson, MD",M,Internal Medicine,55 Lake Ave N,Worcester,MA,01655
+f32e27bd-30d7-44e4-96f4-b952299a2fe7,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. David Gonzalez, MD",M,Pediatrics,1 Boston Med Ctr Pl,Boston,MA,02118
+0c5eb451-297a-459d-a030-0c2b64e46213,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. Joseph Rodriguez, MD",M,Neurology,55 Fogg Rd,South Weymouth,MA,02190
+c2c4f5f1-6007-4f78-b35b-5602b7587c64,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. John Johnson, MD",M,Neurology,1 Boston Med Ctr Pl,Boston,MA,02118
+f58167f2-fd08-44b2-98e0-ea608c8dd180,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. David Martinez, MD",M,Orthopedic Surgery,1 Boston Med Ctr Pl,Boston,MA,02118
+b2829640-e436-4951-9016-fe17ca72e7a3,ba8d0ae7-f39f-49af-bc99-b76201c1cb36,"Dr. James Jones, MD",M,Internal Medicine,759 Chestnut St,Springfield,MA,01199
+dbc9f0c9-1d27-472f-8ccf-098cb2208718,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Linda Hernandez, MD",F,Family Medicine,1493 Cambridge St,Cambridge,MA,02139
+2687424e-dde0-46f6-baf9-c331bee0973a,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. Sarah Anderson, MD",F,Psychiatry,55 Fogg Rd,South Weymouth,MA,02190
+3d5a6a2c-95f1-4eff-b8bc-18b4fc1dcac7,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. Michael Wilson, MD",M,Emergency Medicine,1 Boston Med Ctr Pl,Boston,MA,02118
+92f6a3bf-a18d-4161-bb64-401c756a30d4,ba8d0ae7-f39f-49af-bc99-b76201c1cb36,"Dr. Mary Williams, MD",F,Orthopedic Surgery,759 Chestnut St,Springfield,MA,01199
+59b90e38-cfb2-4045-804a-6f0aa1dccc3e,fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,"Dr. William Williams, MD",M,Orthopedic Surgery,330 Brookline Ave,Boston,MA,02215
+3a00b5d7-651f-492c-8dde-36aa829634f3,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Joseph Brown, MD",M,General Surgery,1493 Cambridge St,Cambridge,MA,02139
+8a9e8a07-a951-4c46-b760-38631aef58b8,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Elizabeth Wilson, MD",F,Cardiology,1493 Cambridge St,Cambridge,MA,02139
+f561a6cf-863a-491d-a840-d33128a2aedb,ba8d0ae7-f39f-49af-bc99-b76201c1cb36,"Dr. Michael Miller, MD",M,Pediatrics,759 Chestnut St,Springfield,MA,01199
+7e1ace7f-0de0-4d1d-88dc-b76d322d3c09,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. William Garcia, MD",M,Neurology,55 Fogg Rd,South Weymouth,MA,02190
+749e2a9e-a219-497b-bf80-e7e443e24ab1,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Mary Johnson, MD",F,Emergency Medicine,55 Lake Ave N,Worcester,MA,01655
+eff81488-af8a-41fd-b83a-25ba7146b1b7,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. Mary Johnson, MD",F,Obstetrics & Gynecology,55 Fogg Rd,South Weymouth,MA,02190
+4c86397a-8d93-45b0-815c-93fb21c5ea40,fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,"Dr. Susan Martinez, MD",F,Orthopedic Surgery,330 Brookline Ave,Boston,MA,02215
+22bae789-0523-4934-93d8-32e9a387e09a,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. William Smith, MD",M,Internal Medicine,55 Fogg Rd,South Weymouth,MA,02190
+10fbdfaa-139d-4cb4-b6b2-83bad78617c9,fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,"Dr. David Miller, MD",M,Obstetrics & Gynecology,330 Brookline Ave,Boston,MA,02215
+26238c0a-99dc-419f-b2cb-87e038638921,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Patricia Lopez, MD",F,Neurology,55 Lake Ave N,Worcester,MA,01655
+12525b65-6b67-4911-aed9-eca20bcddfa7,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. Susan Garcia, MD",F,Pediatrics,55 Fogg Rd,South Weymouth,MA,02190
+6397be7a-c3f0-4ba4-b52e-4dc9c26d5135,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. Michael Miller, MD",M,Emergency Medicine,55 Fogg Rd,South Weymouth,MA,02190
+d9bd4485-d76b-499b-9dd0-835c6313c099,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Susan Rodriguez, MD",F,Pediatrics,55 Fruit St,Boston,MA,02114
+8bb3c09f-10ea-4795-bcbc-d6490d75a63a,ba8d0ae7-f39f-49af-bc99-b76201c1cb36,"Dr. Linda Miller, MD",F,General Surgery,759 Chestnut St,Springfield,MA,01199
+88e9997a-c7cd-4985-b583-bf6631468e25,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Jessica Hernandez, MD",F,Neurology,1493 Cambridge St,Cambridge,MA,02139
+58c34142-79c0-49ab-9c1b-768beefc1ffa,fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,"Dr. Jennifer Hernandez, MD",F,Pediatrics,330 Brookline Ave,Boston,MA,02215
+a5b24b7f-94bb-485f-bd61-27202fbb3bda,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Patricia Wilson, MD",F,Pediatrics,1493 Cambridge St,Cambridge,MA,02139
+51801cb9-867f-4b31-8141-b47bd294e4c2,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Michael Williams, MD",M,Internal Medicine,55 Fruit St,Boston,MA,02114
+259d1fc9-89bc-40bf-9a23-b6469fb8b08c,fde7f8ae-3cb7-45d6-b8fe-b1ef074018be,"Dr. Joseph Martinez, MD",M,General Surgery,330 Brookline Ave,Boston,MA,02215
+0ceeef9d-eacb-45a4-a5be-1c9d120a7af7,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. Karen Brown, MD",F,General Surgery,55 Fogg Rd,South Weymouth,MA,02190
+9d014876-4efc-4c73-971d-46fd4bec6e8c,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Linda Williams, MD",F,Family Medicine,55 Fruit St,Boston,MA,02114
+7068a3e1-f5e9-432e-8dc6-155725749b2d,ac153f9b-783e-47f9-b4e6-920b3b69202b,"Dr. Linda Williams, MD",F,Internal Medicine,41 Mall Rd,Burlington,MA,01805
+a514da9a-f3ea-4344-9f82-d15d0ad549c8,34954e4d-3d7d-48b7-beca-f1e1e1ab4abe,"Dr. John Davis, MD",M,General Surgery,1 Boston Med Ctr Pl,Boston,MA,02118
+3cf71e39-128e-457e-9a69-87bc37c52baa,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. Jessica Martinez, MD",F,Neurology,55 Fogg Rd,South Weymouth,MA,02190
+cb06e15e-6e27-416d-9cb4-e387b8630685,ac153f9b-783e-47f9-b4e6-920b3b69202b,"Dr. Jennifer Lopez, MD",F,General Surgery,41 Mall Rd,Burlington,MA,01805
+ff562743-c3a6-495e-a326-653cf25124bc,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Linda Wilson, MD",F,Neurology,55 Lake Ave N,Worcester,MA,01655
+69404ab9-8ef7-4ea6-8e57-75132a5d7e80,ac153f9b-783e-47f9-b4e6-920b3b69202b,"Dr. Linda Jones, MD",F,Family Medicine,41 Mall Rd,Burlington,MA,01805
+6ef11fde-dc9c-42f3-aad1-87aaa1d671bf,ba8d0ae7-f39f-49af-bc99-b76201c1cb36,"Dr. Linda Jones, MD",F,Obstetrics & Gynecology,759 Chestnut St,Springfield,MA,01199
+ce636550-cb95-4e8a-b814-da5cc502acb7,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Robert Williams, MD",M,Orthopedic Surgery,1493 Cambridge St,Cambridge,MA,02139
+9632cb7f-8919-4902-9470-40bcd00d8299,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. Michael Johnson, MD",M,Orthopedic Surgery,55 Fogg Rd,South Weymouth,MA,02190
+6849731a-17ab-416c-96e3-f06d6a52127e,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. Sarah Davis, MD",F,Internal Medicine,55 Fogg Rd,South Weymouth,MA,02190
+947b197f-8027-4fce-94f0-ba82e181e2c9,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Richard Miller, MD",M,Psychiatry,55 Fruit St,Boston,MA,02114
+61102cf5-fc03-4a4e-b803-f877633db3d1,ba8d0ae7-f39f-49af-bc99-b76201c1cb36,"Dr. Jessica Smith, MD",F,Pediatrics,759 Chestnut St,Springfield,MA,01199
+59bc46fc-0914-4de8-92fb-120ccef065cd,d99ef33f-b250-4310-aef2-6c411edf05d4,"Dr. Susan Rodriguez, MD",F,General Surgery,1493 Cambridge St,Cambridge,MA,02139
+566d7024-16b2-4a9c-a267-21992a872123,ac153f9b-783e-47f9-b4e6-920b3b69202b,"Dr. William Miller, MD",M,Internal Medicine,41 Mall Rd,Burlington,MA,01805
+9c0835b8-d362-4388-a85a-5b025fa60c5b,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. Barbara Hernandez, MD",F,Emergency Medicine,55 Fogg Rd,South Weymouth,MA,02190
+88123413-7245-473f-8570-2a37e61be1eb,c5d226c0-5440-468c-ae86-b46255d0f6b3,"Dr. Jennifer Martinez, MD",F,Orthopedic Surgery,55 Fruit St,Boston,MA,02114
+66e59dd4-6511-484c-b56f-c10c592e6a35,ce3e3240-aaf6-404d-9c54-85221a069f2c,"Dr. John Hernandez, MD",M,Emergency Medicine,55 Fogg Rd,South Weymouth,MA,02190
+64e5b034-4036-480f-905d-a74395b598a7,7500b2e4-3673-44ae-b737-6e6cbf921811,"Dr. Jennifer Smith, MD",F,Orthopedic Surgery,55 Lake Ave N,Worcester,MA,01655
+681d2318-8b88-4c8e-830f-fe3c8ea89486,ba8d0ae7-f39f-49af-bc99-b76201c1cb36,"Dr. Linda Davis, MD",F,Obstetrics & Gynecology,759 Chestnut St,Springfield,MA,01199
